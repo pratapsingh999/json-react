@@ -1,0 +1,19 @@
+
+   { "name"   : "Pratap Singh",
+  "product"    : "leptop",
+  "price"  : "$500",
+
+  "shipTo" : { "name" : "Pratap Singh",
+               "address" : "123 Maple Street",
+               "city" : "gulbarga",
+               "state" : "karnataka",
+               "zip"   : "585101" },
+
+  "billTo" : { "name" : "Pratap Singh",
+               "address" : "123 Maple Street",
+               "city" : "gulbarga",
+               "state" : "karnataka",
+               "zip"   : "585101" }
+            }
+
+
